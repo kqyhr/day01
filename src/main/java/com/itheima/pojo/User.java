@@ -5,5 +5,5 @@ public class User {
     private int ageaaaaaaaa;
     private int afaffaffa;
     private  String nameaffect;//名称
-    private int agadasa;
+    private int agadasqa;
 }
