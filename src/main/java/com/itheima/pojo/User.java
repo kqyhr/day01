@@ -1,6 +1,7 @@
 package com.itheima.pojo;
 
 public class User {
-    private  String name;//名称
-    private int age;
+    private  String nameaaaa;//名称
+    private int ageaaaaaaaa;
+    private int afaffaffa;
 }
